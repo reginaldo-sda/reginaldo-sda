@@ -6,3 +6,4 @@
 - 💼 Interesse em **desenvolvimento de software e tecnologia**  
 - 📚 Cursando **Técnico em Informática** com foco em programação e redes  
 - 🌍 Buscando crescer na área e contribuir em projetos inovadores  
+![GitHub License](https://img.shields.io/github/license/reginaldo-sda/senac-tat)
